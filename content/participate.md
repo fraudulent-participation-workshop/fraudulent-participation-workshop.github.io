@@ -6,4 +6,4 @@ weight: 2
 
 Please fill out this Google Form to express your interest in participating the workshop: TBA
 
-The form will be closed on August 21, 2026.
+The form will be closed on **July 31, 2026**.

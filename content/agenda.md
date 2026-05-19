@@ -4,13 +4,15 @@ weight: 3
 
 # Agenda
 
-* 9:30 am - Welcome, overview, and introductions
-* 10:00 am - Full-group brainstorming of topic areas
-* 10:45 am - Ideating and outlining in breakout groups
-* 12:00 pm - Progress reports from each group
-* 12:30 pm - Lunch break
-* 2:00 pm - Check-in to confirm group goals
-* 2:15 pm - Breakout groups begin drafting their sections
-* 4:00 pm - Full group discussion of document
-* 4:45 pm - Discussion of next steps
-* 5:00 pm - Workshop wraps
+|     Time | Activity                                      |
+|---------:|-----------------------------------------------|
+|  9:30 AM | Welcome, overview, and introductions          |
+| 10:00 AM | Full-group brainstorming of topic areas       |
+| 10:40 AM | Ideating and outlining in breakout groups     |
+| 12:00 PM | Progress reports from each group              |
+| 12:30 PM | Lunch break                                   |
+|  2:00 PM | Check-in to confirm group goals               |
+|  2:15 PM | Breakout groups begin drafting their sections |
+|  4:00 PM | Full group discussion of document             |
+|  4:45 PM | Discussion of next steps                      |
+|  5:00 PM | Workshop wraps                                |

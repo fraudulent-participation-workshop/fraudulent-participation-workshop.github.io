@@ -3,6 +3,12 @@ locale = 'en-us'
 title = 'Fraudulent Participation Workshop'
 theme = "hugo-theme-monochrome"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
